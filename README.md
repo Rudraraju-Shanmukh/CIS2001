@@ -1,7 +1,7 @@
 # CIS 2001 - CS II for Data Scientists - Winter 2023
 4 credit hours  
 
-Lectures T/Th 2:00pm-3:15pm – Room TBD  
+Lectures T/Th 2:00pm-3:15pm – Room CASL 1016   
 Live on https://www.twitch.tv/ericcharnesky  
 Archived on https://www.youtube.com/@EricCharnesky  
   
@@ -10,8 +10,8 @@ remote option via zoom - see canvas for link
 
 ## Contact Information:
 Eric Charnesky, LEO Lecturer II  
-Office Hours: Th 3:20pm-5:50pm or virtual by appointment  
 Email: echarnes@umich.edu  
+Office Hours: Th 3:20pm-5:50pm or virtual by appointment  
 Office Location: GAME Lab - ELB
 
 ## Course Description: 
